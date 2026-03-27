@@ -1,5 +1,5 @@
 # 🍔 Campus Food Delivery Platform
-
+[![Portfolio](https://img.shields.io/badge/krisgarg.in-Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krisgarg.in)
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
